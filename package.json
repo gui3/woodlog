@@ -1,21 +1,17 @@
 {
-  "name": "frum",
-  "version": "0.0.4",
-  "description": "make great things FRom a nUM",
+  "name": "woodlog",
+  "version": "0.0.0",
+  "description": "a simple no-dependancy node logger",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gui3/frum.git"
+    "url": "git+https://github.com/gui3/woodlog.git"
   },
   "keywords": [
-    "numbers",
-    "intervals",
-    "extends",
-    "native",
-    "loops"
+    "log"
   ],
   "author": {
     "name": "gui3",
@@ -23,7 +19,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gui3/frum/issues"
+    "url": "https://github.com/gui3/woodlog/issues"
   },
-  "homepage": "https://github.com/gui3/frum#readme"
+  "homepage": "https://github.com/gui3/woodlog#readme"
 }
